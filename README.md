@@ -41,6 +41,12 @@
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/36a2a3cc-5a32-403c-8ac9-351c1f0bd994" />
 
+Η παραπάνω οθόνη αξιολογείται σύμφωνα με τα ακόλουθα **κριτήρια σχεδιασμού:**
+
+
+
+
+
 
 
 
